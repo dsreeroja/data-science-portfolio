@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sree
 
-🎓 Master's Student in IT (USA)
-📊 Aspiring AI Data Scientist | Data Engineer | Ex Consulting Analyst at Deloitte
+📊 Aspiring AI Data Scientist | Data Engineer | Ex employee at Deloitte
+🎓 Master's Student USA | PG Diploma in Data science and Machine learning 
 💡 Passionate about Data, Machine Learning, and AI-driven solutions
 
 ---
